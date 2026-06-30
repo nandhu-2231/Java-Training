@@ -1,3 +1,5 @@
+package Day1;
+
 public class Problem15 {
     public static void main(String[] args) {
         String name = "Anita";
@@ -7,4 +9,5 @@ public class Problem15 {
         System.out.println("I am " + age + " years old.");
     }
 
+    
 }

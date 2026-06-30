@@ -1,3 +1,5 @@
+package Day1;
+
 public class Problem7 {
     public static void main(String[] args) {
         int number = 100;
@@ -9,4 +11,5 @@ public class Problem7 {
         System.out.println("Grade ="+grade);
         System.out.println("Pass ="+pass);
     }
+    
 }
