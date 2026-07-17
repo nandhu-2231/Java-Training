@@ -6,7 +6,6 @@ public class Problem6 {
         System.out.println("Car Started");
     }
     public static void main(String[] args) {
-        Problem6 p1;
         Problem6 p2 = null;
         System.out.println(p2);
         Problem6 p3 = new Problem6();
